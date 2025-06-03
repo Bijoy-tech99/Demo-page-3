@@ -7,6 +7,9 @@ header {
     border-radius: 9px;
 
 }
+img{ 
+    text-align: center;
+}
 header h2{
     font-family: "Pacifico", cursive;
     font-weight: 400;
@@ -65,6 +68,45 @@ nav {
 }
 main {
     text-align: center;
+    width: 100%;
+}
+.team{
+    display: flex;
+    /* margin: 34px 78px; */
+    justify-content: center;
+    width: 100%;
+    gap: 43px;
+    height: -64%;
+}
+.joy{
+
+}
+.joy{
+
+display: block;
+
+justify-content: space-around;
+
+/* width: 50%; */
+
+/* height: 50%; */
+}
+
+.joy img{
+    /* text-align: center; */
+    /* width: 50%; */
+    height: 50%;
+}
+.joy h1{
+    
+display: block;
+}
+.joy img{
+    text-align: center;
+    width: 320px;
+    height: 330px;
+    object-fit: cover;
+    border-radius: 11px;
 }
 #bijoy {
     font-style: inherit;
