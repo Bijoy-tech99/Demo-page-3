@@ -80,21 +80,14 @@ main {
 }
 .joy{
 
-}
-.joy{
-
 display: block;
 
 justify-content: space-around;
 
-/* width: 50%; */
 
-/* height: 50%; */
 }
 
 .joy img{
-    /* text-align: center; */
-    /* width: 50%; */
     height: 50%;
 }
 .joy h1{
